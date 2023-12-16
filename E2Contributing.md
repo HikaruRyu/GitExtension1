@@ -16,6 +16,10 @@
 4. **Save Changes:**
    - Click on the "Save changes" button to apply the configuration.
 
+      ![Imagen](Imagenes\Imatge7.png)
+
+
+
 ## Step 2: Clone the Repository Locally
 
 1. **Open Git Extensions:**
@@ -25,6 +29,7 @@
    - Click on "Clone Repository."
    - Enter the repository URL and destination path on your local machine.
    - Click "Clone."
+   ![Imagen](Imagenes\Imatge5.png)
 
 ## Step 3: Add E2Contributing.md and Initial Changes
 
@@ -58,9 +63,13 @@
 2. **Modify index.html:**
    - Your partner should modify the `index.html` file to turn it into a guide for learning Git from scratch.
    - Add links to Git resources and explanations.
+   ![Imagen](Imagenes\Imatge6.png)
 
 3. **Commit and Push Changes:**
    - Your partner should commit and push the changes to the GitHub repository.
+
+   ![Imagen](Imagenes\Imatge1.png)
+
 
 ## Step 5: Update Your Local Repository
 
@@ -70,13 +79,14 @@
 2. **Take a Screenshot:**
    - Take a screenshot of the work history in Git Extensions.
 
-3. **Update E2Contributing.md:**
-   - Add the screenshot and document the collaborative process in `E2Contributing.md`.
+******
 
 ## Step 6: Submit for Review
 
 1. **Provide Repository Link:**
-   - Share the link to your GitHub repository with the latest changes for the teacher to review.
+   - Share the link to your GitHub repository with the latest changes.
+   ![Imagen](Imagenes\Imatge1.png)
+
    
-![Imagen](Imagenes\Pepe1.png)
+
 
